@@ -1,0 +1,11 @@
+.movies__container{
+    display: flex;
+}
+
+.movies__left{
+    flex: 0.6
+}
+
+.movies__right{
+    flex: 0.3;
+}

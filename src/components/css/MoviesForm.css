@@ -1,0 +1,17 @@
+.movie__card{
+    width: 400px;
+    height: 300px;
+    margin: 30px;
+}
+.movie__name {
+    margin: 30px;
+}
+.imdb__ranking{
+    margin: 30px;
+    margin-bottom: 0;
+}
+
+.button {
+    margin-left: 50px;
+    padding: auto;
+}
